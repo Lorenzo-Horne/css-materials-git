@@ -1,5 +1,5 @@
 terminal/command line commands:
-  pwd, cd, ls
+  pwd, cd, ls, touch, :q
 
 git commands:
   git init
@@ -7,5 +7,6 @@ git commands:
   git add = to stage
   git commit -m "your commit message inputted here" = committing
   git push
-  git touch 
+  git touch  
+  git diff
   
